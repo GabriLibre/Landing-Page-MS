@@ -5,6 +5,7 @@ function darkmode() {
         document.getElementById("butão").style.backgroundColor = "rgb(0, 39, 168)"
         document.getElementById("butão").style.color = "rgb(243, 243, 245)"
         document.getElementById("head").style.backgroundColor = "#012cbb"
+        document.getElementById("head").style.color = "#ffffff"
         document.getElementById("tit").style.backgroundColor = "rgb(195, 208, 253)"
         document.getElementById("tit").style.backgroundColor = "rgb(195, 208, 253)"
         document.getElementById("bcont1").style.backgroundColor = "rgb(0, 39, 168)"
